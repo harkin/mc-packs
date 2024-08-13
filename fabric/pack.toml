@@ -1,0 +1,17 @@
+name = "Fabric server perf modpack"
+author = "Me"
+version = "0.0.1"
+description = "Fabric server perf modpack"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a78629ee4a77f127c76b57e89b97a096727cfd3ee37b16f3ef4d1ef18f76a163"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = ["1.21.1"]

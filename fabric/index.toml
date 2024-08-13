@@ -1,0 +1,165 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "6499fe87e6a5c0d0202904a81e6ce1983898aeb2984e12702ef464699761d807"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "529f85e7837b766acfd4031d3563d5d96f4d0a83f00dd5328a1b943abda3f8b9"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "d1419712af2161fec376ae7f139209565dfd299ae4c8fd925f020b90f991b484"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "48c6a4e310601532ac6a9e7f2f814128f75af9a541aee5a6e39d2d5475d967af"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "9b6415347ece238a7133ab30866fd70b71b4570259d7e5554723bf33f3d3fb5a"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7d0b378ccbc753946b078a94fd1cac24b7b906492aa45660d4686051397a4c17"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/fpsdisplay.pw.toml"
+hash = "f7be86fbd30f1b093b3a19b9a42b8ee02248ad720012fd2cb51209df5eae387e"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "5b26ee77901b99a55774424b0167bc22da722ae1b79ec1233ec18d2048d7f81e"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "0fe1b6520e4845041945963783ae792e8bf008764e4e2fd472d9a88c9aa443bd"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "fc5b8e4470044d2b63bb319e4aed9f03bd0e0fc58ad359151663f4db0b180e58"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "89491c5de91bf4d1c862e8cc6767920fc56018ae408a6fd57fe181a50e18d457"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "df62dc81c883a33e4dd6b2858b919387b0d86c803cbecc82233ccf001db47b04"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "9044978b9866d4cd1a1b5f5f5cf4b3458642213fb69d238ffa2812af4d0e7f3b"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a2a1765d73550b9405479c0f3d5e49842edf8ec0381e4c022db5d70b0d6200c2"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "43f3ec75de91c336db90d1dab5297c596691b0e2bed1cd9e89995f3c0704416c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "748515e298d9becf41c0b3843d00c49929bb7be71e7eb0d7ddc0c1de97ada19e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "eed0b50dd282a2bf0cccf8f0097c00da55cb730d1f8ffe970482d55f9091d2e4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2e1e83a8e998d5f8ec3f8f2346e24ba99b828ff90a3ed26eef56ec989e44f668"
+metafile = true
