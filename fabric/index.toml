@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
+hash = "7b6e5e0763170db9b10adfd1d4071e5eef06dde20987479662e53dc1ab31028f"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "9044978b9866d4cd1a1b5f5f5cf4b3458642213fb69d238ffa2812af4d0e7f3b"
+hash = "f8a4f0396ba5f97891672183e53f33aa2c3a5c09733e7f32ebef4b6b1e5e6ca0"
 metafile = true
 
 [[files]]
