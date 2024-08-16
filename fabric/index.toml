@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0fe1b6520e4845041945963783ae792e8bf008764e4e2fd472d9a88c9aa443bd"
+hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "89491c5de91bf4d1c862e8cc6767920fc56018ae408a6fd57fe181a50e18d457"
+hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "df62dc81c883a33e4dd6b2858b919387b0d86c803cbecc82233ccf001db47b04"
+hash = "26027637c0718d1e631e60d8695d9bf6ec5da2c38888c9f5febd100da0fa7937"
 metafile = true
 
 [[files]]
