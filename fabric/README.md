@@ -12,6 +12,7 @@ Waiting on updates for 1.21:
  * Minihud
  * Borderless mining
  * Cull less leaves
+ * Lootr (instanced loot chests, might be a on-runner if it breaks catastrophically without client side mod)
 
 TODO
  * server backup

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "6499fe87e6a5c0d0202904a81e6ce1983898aeb2984e12702ef464699761d807"
+hash = "800f034325c5d886f4b2c2a04573cfe97cd2a6cd95d3b78e7ae88764bf134e83"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -67,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "4ca286aab0671af7b70991aaa2a368ed6cb56f3ac1dcea78962f53e3766b506f"
 metafile = true
 
 [[files]]
