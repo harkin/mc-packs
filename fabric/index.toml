@@ -50,6 +50,11 @@ hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
