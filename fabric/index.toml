@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ece987f3292dd21e15fc9395f82d58709de782967820efca540052ddf16c3894"
+hash = "7d0b378ccbc753946b078a94fd1cac24b7b906492aa45660d4686051397a4c17"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "f3b85761b078d82f78acc2eb7dc490b3b70d25c304eb9af9dcd553ba796f7559"
+hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4a752b15ab4b35b3c5bbe92d0f4ed9a29ed15633fbb9fd199d842e3334feb48f"
+hash = "eed0b50dd282a2bf0cccf8f0097c00da55cb730d1f8ffe970482d55f9091d2e4"
 metafile = true
 
 [[files]]
