@@ -25,6 +25,11 @@ hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "a934007a85cf1a0d1a1c28cd8d4f1eff250e6536ea7243813cf91d82b0708b2b"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "48c6a4e310601532ac6a9e7f2f814128f75af9a541aee5a6e39d2d5475d967af"
 metafile = true
