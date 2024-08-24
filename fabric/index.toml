@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "a934007a85cf1a0d1a1c28cd8d4f1eff250e6536ea7243813cf91d82b0708b2b"
+hash = "5309c13521cd3781aed216c44ab66f87a08eaf10d891fdce05bb7e045f59ea8c"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a2a1765d73550b9405479c0f3d5e49842edf8ec0381e4c022db5d70b0d6200c2"
+hash = "05e20dd882685733b299c1db03423f665c569f4c57b8404af98c5bb30776fefd"
 metafile = true
 
 [[files]]
@@ -201,5 +201,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2e1e83a8e998d5f8ec3f8f2346e24ba99b828ff90a3ed26eef56ec989e44f668"
+hash = "55e69d0628ce791c677bc82e664f5df7ffa4cebc4f0860a5ce665a1d47cd9d7e"
 metafile = true
