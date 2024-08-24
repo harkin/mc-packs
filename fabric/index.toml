@@ -75,11 +75,6 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
-file = "mods/fpsdisplay.pw.toml"
-hash = "f7be86fbd30f1b093b3a19b9a42b8ee02248ad720012fd2cb51209df5eae387e"
-metafile = true
-
-[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5b26ee77901b99a55774424b0167bc22da722ae1b79ec1233ec18d2048d7f81e"
 metafile = true
