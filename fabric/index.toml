@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "5c19a3fa886d36fd32ee8434b7948972329b96fa1f4064d8beadae832f168654"
+hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "748515e298d9becf41c0b3843d00c49929bb7be71e7eb0d7ddc0c1de97ada19e"
+hash = "648b0711e44e12b60ee1c32705bcc9e9a5eb90b9cb9e874a1f518f2c2dd6c1a9"
 metafile = true
 
 [[files]]
