@@ -2,7 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "800f034325c5d886f4b2c2a04573cfe97cd2a6cd95d3b78e7ae88764bf134e83"
+hash = "8df774359c2268878a0ba699c2fc6d43b2dee64df3dff8372b3264d9feb1df76"
+
+[[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "793d1432cc5270f81c27b9681db48b4702418a35db6eaa25d174e87056fe1e96"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
