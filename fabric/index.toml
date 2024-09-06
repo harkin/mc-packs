@@ -75,6 +75,11 @@ hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "4762a06ce29a0e4ffdb1fe9c272d65c3b0cd8d77e39929c797d9986063b1dcfb"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "ba9ef97f3684ea70f21d1e89af3a0140e3b3ed64afbdb8e51a965ef0a8cc01da"
 metafile = true
