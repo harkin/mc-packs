@@ -185,6 +185,11 @@ hash = "8b1ee4be0c60ea6f0e7c6834cd38edaa15145d71fa8cf963c48c0f2d1e49d5e5"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "fc77a96640d0cdc6f604ba0627664dd38e1a34c60007f709d8dbe3a6e17c6c05"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "f8a4f0396ba5f97891672183e53f33aa2c3a5c09733e7f32ebef4b6b1e5e6ca0"
 metafile = true
