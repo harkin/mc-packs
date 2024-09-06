@@ -7,15 +7,14 @@ Server mods are all about performance optimisation
 Client mods include optimisations and a few QOL mods I enjoy
 
 Waiting on updates for 1.21:
- * Observable
- * Tweakaroo
- * Minihud
+ * Observable (for testing, have heard mixed reports about it's affect on perf)
  * Borderless mining
  * Cull less leaves
  * Lootr (instanced loot chests, might be a on-runner if it breaks catastrophically without client side mod)
+ * Iris Flywheel Compact (unsure what difference it makes in vanilla, want to test) iris-flw-compat
 
 TODO
- * server backup
+ * server backup (Fastback is working and interesting but not sure on git based backups in general)
 
 
 Configs:
