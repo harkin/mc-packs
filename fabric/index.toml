@@ -80,6 +80,11 @@ hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+metafile = true
+
+[[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "4762a06ce29a0e4ffdb1fe9c272d65c3b0cd8d77e39929c797d9986063b1dcfb"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "ba59e9b4c7cc30852ed1d1a5a4b14465f552921e54c440233d44a0d12c17567e"
 metafile = true
 
 [[files]]
@@ -167,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "26027637c0718d1e631e60d8695d9bf6ec5da2c38888c9f5febd100da0fa7937"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "8b1ee4be0c60ea6f0e7c6834cd38edaa15145d71fa8cf963c48c0f2d1e49d5e5"
 metafile = true
 
 [[files]]
