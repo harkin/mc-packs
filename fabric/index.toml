@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8df774359c2268878a0ba699c2fc6d43b2dee64df3dff8372b3264d9feb1df76"
+hash = "0efb876e92de652c5517895938e32f3d77a4c50877176d38bf617792809e65af"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
