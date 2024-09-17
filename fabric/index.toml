@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "0efb876e92de652c5517895938e32f3d77a4c50877176d38bf617792809e65af"
+hash = "cf7757cb68de98f451891c4db25e493ea023983f3869ad82f19a4f8ac65fbd91"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
