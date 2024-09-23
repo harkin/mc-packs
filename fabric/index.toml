@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "fc77a96640d0cdc6f604ba0627664dd38e1a34c60007f709d8dbe3a6e17c6c05"
+hash = "52fd1ad1490c3bcb6eb80098f8a7c92f9f41fad4893e36e6d65ff81313429812"
 metafile = true
 
 [[files]]
