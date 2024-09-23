@@ -23,7 +23,6 @@ TODO
 
 
 Configs:
- * Lithium and carpet mod currently don't play nicely together and requires `mixin.world.explosions.cache_exposure=false` to be set in lithium.properties
  * Xaeros has a custom config that disables registration of status effects so that clients without it can join the server
 
 Notes:
