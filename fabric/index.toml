@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a6ba298b74f6cc6d2ed3cf0f4223200cce95251413ac8a0d531d230cd6c7ddd0"
+hash = "3ea99db242c72753682ecb03faf2d367e1cbf8de0b5cbb4691180d107b06a8fa"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7d72a86e9b91634fe0c8d6a7b04f9e8ec652e3b924dd3512a2260138ab8631c8"
+hash = "49438c74733ef670a78b4ac9300a52ec40b2dad7db05bee1cf6c66f0d1d3ab69"
 metafile = true
 
 [[files]]
