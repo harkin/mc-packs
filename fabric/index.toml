@@ -50,6 +50,11 @@ hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "ec5c86ca8270f882ea3ff00f88697ce2e210e6105d1cf61806f512abe5ccef53"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
