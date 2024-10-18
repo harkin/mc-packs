@@ -18,6 +18,7 @@ To investigate:
  * https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone vs accelerated decay
  * modern fix: https://www.curseforge.com/minecraft/mc-mods/modernfix. Big perf claims, didn't see them in very limited testing
  * memory leak fix: https://modrinth.com/mod/memoryleakfix/
+ * scalablelux, Starlight fork
 
 TODO
  * server backup (Fastback is working and interesting but not sure on git based backups in general)
