@@ -1,6 +1,7 @@
 name = "vanilla-world"
 author = "harkin"
 version = "0.0.1"
+description = "Mostly vanilla Fabric server pack, designed to improve performance primarily and disable some really annoying MC parts. Some extra structure generation is added to spice up the water"
 pack-format = "packwiz:1.1.0"
 
 [index]
