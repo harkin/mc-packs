@@ -1,0 +1,13 @@
+name = "vanilla-world"
+author = "harkin"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d88eb55d7c85c7805325dad156e29300c8639e582dc71d80d888e82d06dc2348"
+
+[versions]
+fabric = "0.16.8"
+minecraft = "1.21"
