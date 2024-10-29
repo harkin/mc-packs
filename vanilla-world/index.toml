@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "4762a06ce29a0e4ffdb1fe9c272d65c3b0cd8d77e39929c797d9986063b1dcfb"
+hash = "4188799fbf294e7af389e7967fdaed58f7f407c761af193613b627d880714023"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "52fd1ad1490c3bcb6eb80098f8a7c92f9f41fad4893e36e6d65ff81313429812"
+hash = "96cf100e91e29024010581dda3a3b5f5a2f4a81741cd9118f545433b2d01de8d"
 metafile = true
 
 [[files]]
