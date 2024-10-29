@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/MlbhHWAA/OkZoomer-Fabric-10.0.0-beta.4.jar"
-hash-format = "sha1"
-hash = "68fed6b016fd0bd0d7c9441ecc906c2e621c79cf"
+hash-format = "sha512"
+hash = "219cb3967a345f1b588ba7bdfcd51d3b32210ee53bca30e6b61866354453c6b497d13c26d18c041f2db6d4b7d6ae732389da1c1b0a702e8ddf8db9a15b916b93"
 
 [update]
 [update.modrinth]

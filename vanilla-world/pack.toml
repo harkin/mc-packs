@@ -1,13 +1,13 @@
 name = "vanilla-world"
 author = "harkin"
-version = "0.0.1"
 description = "Mostly vanilla Fabric server pack, designed to improve performance primarily and disable some really annoying MC parts. Some extra structure generation is added to spice up the water"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "28935b96b1ccea3956cc2a3f1881aa0069a628913d6e329812177b8c511eb009"
+hash = "e32e471ca1b72099898864b9097c141a8a9fdda5ac8f5fea4087c2391d36e228"
 
 [versions]
 fabric = "0.16.8"
