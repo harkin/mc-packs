@@ -32,6 +32,7 @@ FABRIC_MODS_I_LIKE = [
   { name: "better-ping-display-fabric", host: :mr },
   { name: "carpet", host: :cf },
   { name: "continuity", host: :mr },
+  { name: "controlling", host: :mr },
   { name: "cubes-without-borders", host: :mr },
   { name: "ftb-backups-2", host: :cf },
   { name: "horsebuff", host: :mr },

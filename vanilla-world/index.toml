@@ -60,6 +60,11 @@ hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "23a1e8f9c03e9628cf1bb69dca7d2a6ea5e80d6a31636aa421647ba1fac7949d"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
 metafile = true
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "c7faa4bd63a6e637652af59586596203726ce2f76d4bb22343bdc1bcccb446c0"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "d01b1f9d06639265f4e8b76f854591daa4446161a83c778e83106b4dfe06b622"
 metafile = true
 
 [[files]]
