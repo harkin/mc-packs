@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ftbbackups2.json"
+hash = "658cdfc3d5b6794b28c8fc84fa1c91daa352017ae1145a006c99060f2be13cde"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "f403213efeb5a017a4bebf63aca251fd606a7a8bdc23a8534a5a073ce1f9c2a1"
 metafile = true
@@ -153,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "9c1591aa2d56e18cf5f18bae8195a54774690cb1ae19f2ff984c82b455fa1d48"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "6be7edd9b88632678b25f96b46c1cb79dcc0d92f7165dee84421661b50683090"
 metafile = true
 
 [[files]]
