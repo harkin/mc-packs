@@ -161,6 +161,11 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "9b7a2371de4ca39b009067a20bd71a35100ef87ab16a4b0b34f04fc4ace881f3"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true

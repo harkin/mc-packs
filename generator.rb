@@ -14,6 +14,7 @@ FABRIC_PERFORMANCE_MODS = [
   { name: "indium", host: :mr },
   { name: "krypton", host: :mr },
   { name: "lithium", host: :mr },
+  { name: "moreculling", host: :mr },
   { name: "no-chat-reports", host: :mr },
   { name: "noisium", host: :mr },
   # { name: "nvidium", host: :mr }, not compatible with Sodium 0.6.0 yet
