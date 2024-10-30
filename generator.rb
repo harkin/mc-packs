@@ -30,7 +30,7 @@ FABRIC_MODS_I_LIKE = [
   { name: "appleskin", host: :mr },
   { name: "better-mount-hud", host: :mr },
   { name: "better-ping-display-fabric", host: :mr },
-  { name: "carpet", host: :cf },
+  { name: "carpet", host: :mr },
   { name: "continuity", host: :mr },
   { name: "controlling", host: :mr },
   { name: "cubes-without-borders", host: :mr },
