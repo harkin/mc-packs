@@ -3,7 +3,7 @@
 FABRIC_PERFORMANCE_MODS = [
   { name: "chunk-sending-forge-fabric", host: :cf },
   { name: "clumps", host: :mr },
-  { name: "cupboard --file-id 5477517", host: :cf }, # there's a NeoForge version that erroneously gets picked up without the file-id
+  # { name: "cupboard", host: :cf }, # there's a NeoForge version that erroneously gets picked up without the file-id
   { name: "dynamic-fps", host: :mr },
   { name: "ebe", host: :mr },
   { name: "entityculling", host: :mr },
@@ -56,12 +56,14 @@ FABRIC_MULTIPLAYER_MODS = [
   { name: "when-dungeons-arise-seven-seas", host: :mr },
 ]
 
-def generate_modpack(folder_name, mods)
+FABRIC_SKYBLOCK_MODS = [{ name: "carpet-sky-additions", host: :mr },]
+
+def generate_modpack(folder_name, mc_version, mod_loader, mods)
   return if Dir.exist?(folder_name)
 
   Dir.mkdir(folder_name)
   Dir.chdir(folder_name) do
-    system("packwiz init --name #{folder_name} --author harkin --modloader fabric --fabric-latest --mc-version 1.21 --version 0.0.1")
+    system("packwiz init --name #{folder_name} --author harkin --modloader #{mod_loader} --#{mod_loader}-latest --mc-version #{mc_version} --version 0.0.1")
     mods.each do |mod|
       success = system("packwiz #{mod[:host]} add #{mod[:name]} -y >> /dev/null")
       unless success
@@ -71,5 +73,7 @@ def generate_modpack(folder_name, mods)
   end
 end
 
-generate_modpack("vanilla-world", FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE + FABRIC_MULTIPLAYER_MODS)
+generate_modpack("vanilla-world", "1.21", "fabric", FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE + FABRIC_MULTIPLAYER_MODS)
+generate_modpack("skyblock-carpet", "1.20.6", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
+generate_modpack("test", "1.21", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
 

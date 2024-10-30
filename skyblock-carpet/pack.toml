@@ -1,0 +1,16 @@
+name = "skyblock-carpet"
+author = "harkin"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b47bcbb8ac0a0be790f81e553337316236b716ead97c2d2615e1ce5521530207"
+
+[versions]
+fabric = "0.16.8"
+minecraft = "1.20.6"
+
+[options]
+acceptable-game-versions = ["1.20.4", "1.20.6"]
