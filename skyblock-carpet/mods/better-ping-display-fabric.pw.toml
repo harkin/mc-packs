@@ -1,13 +1,13 @@
 name = "Better Ping Display [Fabric]"
-filename = "BetterPingDisplay-Fabric-1.20.6-1.1.1.jar"
+filename = "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MS1ZMyR7/versions/5T09o4kh/BetterPingDisplay-Fabric-1.20.6-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/MS1ZMyR7/versions/FbxcDBxy/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "11d21bb87eb5621bd0b4906d3214ff04c0413e30afd78aa6515f5515e4ad83ccc1332da3b2e868cf7775e5159bbac3bcdd2cf4bc2308e7bca6e0775008df3545"
+hash = "5651a271904dc73f868a8cf307a6a517fc29631472af1258b5da90183afbf770205eb3a6404fa65c599d4fd3c04710ab47fe8339799cce7fc648f4929648c120"
 
 [update]
 [update.modrinth]
 mod-id = "MS1ZMyR7"
-version = "5T09o4kh"
+version = "FbxcDBxy"

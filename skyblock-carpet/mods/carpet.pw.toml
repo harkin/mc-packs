@@ -1,13 +1,13 @@
 name = "Carpet"
-filename = "fabric-carpet-24w18a-1.4.142+v240503.jar"
+filename = "fabric-carpet-23w40a-1.4.120+v231004.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bcd156c765abd8e7726e31cef18215668fc77b1d"
+hash = "a65409f5d1ce0a063480ba6254e3bb924b7c6954"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5313925
+file-id = 4782443
 project-id = 349239

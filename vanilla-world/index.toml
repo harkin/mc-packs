@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d283beee247147ac2401c1b6c531e2a8f291031f0dea9884c8b2e408c9bfee63"
+
+[[files]]
 file = "config/ftbbackups2.json"
 hash = "658cdfc3d5b6794b28c8fc84fa1c91daa352017ae1145a006c99060f2be13cde"
 

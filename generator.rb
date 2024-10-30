@@ -40,7 +40,7 @@ FABRIC_MODS_I_LIKE = [
   { name: "minihud", host: :mr },
   { name: "modmenu", host: :mr },
   { name: "mouse-tweaks", host: :mr },
-  { name: "ok-zoomers", host: :mr },
+  { name: "ok-zoomer", host: :mr },
   { name: "roughly-enough-items", host: :mr },
   { name: "servux", host: :mr },
   { name: "too-fast", host: :cf },
@@ -74,6 +74,4 @@ def generate_modpack(folder_name, mc_version, mod_loader, mods)
 end
 
 generate_modpack("vanilla-world", "1.21", "fabric", FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE + FABRIC_MULTIPLAYER_MODS)
-generate_modpack("skyblock-carpet", "1.20.6", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
-generate_modpack("test", "1.21", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
-
+generate_modpack("skyblock-carpet", "1.20.1", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
