@@ -265,6 +265,16 @@ hash = "312852f091ce9b76fed7ec9d55dbff8b692cceac8a4d0c907cf12d9d7769487f"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "7b88edf03fd9d934cf8dd81105fb7d66d7bbe886f499a479b8b51e9a84eb3cfb"
 

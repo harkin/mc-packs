@@ -41,7 +41,6 @@ FABRIC_MODS_I_LIKE = [
   { name: "minihud", host: :mr },
   { name: "modmenu", host: :mr },
   { name: "mouse-tweaks", host: :mr },
-  { name: "ok-zoomer", host: :mr },
   { name: "roughly-enough-items", host: :mr },
   { name: "servux", host: :mr },
   { name: "too-fast", host: :cf },
@@ -49,6 +48,7 @@ FABRIC_MODS_I_LIKE = [
   { name: "wthit", host: :mr },
   { name: "xaeros-minimap", host: :mr },
   { name: "xaeros-world-map", host: :mr },
+  { name: "zoomify", host: :mr },
 ]
 
 FABRIC_MULTIPLAYER_MODS = [
