@@ -57,7 +57,10 @@ FABRIC_MULTIPLAYER_MODS = [
   { name: "when-dungeons-arise-seven-seas", host: :mr },
 ]
 
-FABRIC_SKYBLOCK_MODS = [{ name: "carpet-sky-additions", host: :mr },]
+FABRIC_SKYBLOCK_MODS = [
+  { name: "carpet-sky-additions", host: :mr },
+  { name: "inventory-sorting", host: :mr },
+]
 
 def generate_modpack(folder_name, mc_version, mod_loader, mods)
   return if Dir.exist?(folder_name)
@@ -75,4 +78,4 @@ def generate_modpack(folder_name, mc_version, mod_loader, mods)
 end
 
 generate_modpack("vanilla-world", "1.21", "fabric", FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE + FABRIC_MULTIPLAYER_MODS)
-generate_modpack("skyblock-carpet", "1.20.4", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
+generate_modpack("skyblock-carpet", "1.20.4", "fabric", FABRIC_SKYBLOCK_MODS + FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
