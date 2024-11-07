@@ -75,4 +75,4 @@ def generate_modpack(folder_name, mc_version, mod_loader, mods)
 end
 
 generate_modpack("vanilla-world", "1.21", "fabric", FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE + FABRIC_MULTIPLAYER_MODS)
-generate_modpack("skyblock-carpet", "1.20.1", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)
+generate_modpack("skyblock-carpet", "1.20.4", "fabric", FABRIC_SKYBLOCK_MODS+ FABRIC_PERFORMANCE_MODS + FABRIC_MODS_I_LIKE)

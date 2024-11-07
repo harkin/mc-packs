@@ -1,13 +1,13 @@
 name = "FTB Backups 2"
-filename = "ftbbackups2-fabric-1.20-1.0.23.jar"
+filename = "ftbbackups2-fabric-1.20.4-1.0.29.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1e49cf2886f3b976148e587a1de7e86bee9443af"
+hash = "8161ee4ae2012e830e78171b2a56113512943b94"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4834401
+file-id = 5859620
 project-id = 622737
