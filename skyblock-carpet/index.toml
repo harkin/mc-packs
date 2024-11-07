@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b57e845b9447b543bb6d0f7f87c61fc35424d2cc9be6a87eb6561685b4d5415f"
+hash = "ca5feb068fc80c2846b3782e3483d7a5646ff1e805d019dce4677e3040b5ed17"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5e82a66ffe393248e8465e038352a6ca04773fc4ffca58f5f53204feccf16ae6"
+hash = "f8a4d471df41f633cdf26f291cf0627e6b661026bc488093ffe1d515d8494202"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1a0ca5ccdd3c2a5ab50bd98910168b5050b8bbcfb6d461ba5b2f208cfb13b1b0"
+hash = "06f59353b63e48fb3b7f0684ffad3c1cc7bbae2ed39c7749df6cda3dd85f3daa"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d5e3d7c6c04ddf47216b4d8f92411bc105dd4fd342a151315d61859a05813b7e"
+hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
 metafile = true
 
 [[files]]
