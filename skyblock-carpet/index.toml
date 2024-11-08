@@ -36,12 +36,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-sky-additions.pw.toml"
-hash = "d3b69be207ff4008e72a647e57e1ae21bec4cb117971838ac59d9e1e0ae9f8e7"
+hash = "4bd5131cab75503acd9a5d20c0135ea44727aba130cdb1c84c9480b4ad93eff0"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "0553ab9663c9e0fe2de564aef64b045b86f8eff7b48b88cb32a1ba8641a92795"
+hash = "9893fe702bc0669b40982f197d14cd227e23c62550e2d84af9f0db346806caff"
 metafile = true
 
 [[files]]

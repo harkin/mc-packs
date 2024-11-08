@@ -1,6 +1,6 @@
 name = "Carpet Sky Additions"
 filename = "carpetskyadditions-1.20.4-4.4.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3oX3JnAP/versions/LsdPBxtr/carpetskyadditions-1.20.4-4.4.2.jar"
