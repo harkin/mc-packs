@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "fcaf91cfc3e087349414f2483e4793c8c7220b61c649ee4ea3ff485e5b5a98ed"
+hash = "cd89046b557fba48a6a84a184104e2d5c5fe036c4dcc30ed80ae747a6b5fdea6"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "ce74db07a1394c86e6d3e5b2860a89a8794ac02b3b5fdcf606c4689d97dc1543"
+hash = "f8e878302fc127401fa8c9c07b680c03c70d7640ac7b68cb75296026df5cb8a2"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "021f5789519f2d64e9e4b626335d67936eb975966d1f84808d779f02d8da970d"
+hash = "9ba34ab665ffb8cbb371ca098ea67c5925acf03a84ed723c29f75e78c07de342"
 metafile = true
 
 [[files]]
@@ -241,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c64f4961fc6c009db4e3398ba23063cb262c61ed108c8f04dbc254c287bed1cd"
+hash = "404c21e94359f3b69d11fb829a6eca082db62aa547dc6bac4bf6af4c923d27a9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "38a24a6e92fa3066e9ad1ac910f99dc2b8bd838d2467828316027fd177fa50ed"
+hash = "39a1c5cc472583125cc6a73d386e12d842d9aeb48492c14e63122e0f73578919"
 metafile = true
 
 [[files]]
