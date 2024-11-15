@@ -185,6 +185,11 @@ hash = "ce74db07a1394c86e6d3e5b2860a89a8794ac02b3b5fdcf606c4689d97dc1543"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "f17ba81d0008c26ff86a1e8bb97586ac703b07ecd52412bdda26bd335ef7f000"
 metafile = true
