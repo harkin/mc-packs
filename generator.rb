@@ -60,6 +60,7 @@ FABRIC_MULTIPLAYER_MODS = [
 FABRIC_SKYBLOCK_MODS = [
   { name: "carpet-sky-additions", host: :mr },
   { name: "inventory-sorting", host: :mr },
+  { name: "litematica", host: :mr },
 ]
 
 def generate_modpack(folder_name, mc_version, mod_loader, mods)
