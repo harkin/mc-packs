@@ -20,6 +20,7 @@ FABRIC_PERFORMANCE_MODS = [
   # { name: "nvidium", host: :mr }, not compatible with Sodium 0.6.0 yet
   { name: "particle-core", host: :mr },
   { name: "recipe-essentials-forge-fabric", host: :cf },
+  { name: "scalablelux", host: :cf },
   { name: "smooth-chunk-save", host: :cf },
   { name: "sodium", host: :mr },
   { name: "spark", host: :mr },
