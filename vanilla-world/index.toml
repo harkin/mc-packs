@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "7dc63597d075f04aba1d9f37f8a549063065ca72e5ebbd04258415b30f06ecf6"
+hash = "ca13eedfbae981af335542110bf7dc6f4e827e4aed5e22c8792f81a99a6a791d"
 metafile = true
 
 [[files]]
@@ -161,12 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "e63a78790a02341fcd86dbe4622401a832fda8a8e7c43e4187492ab9f0df2644"
+hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8ed3b81131bc7739be2f9b6456eac7d3a9f259702c67e6410d0c0400c0a6a4e1"
+hash = "e0b00c3f81947befb1f7b7424b16461b2805cb344e66542b868fd62c645bca56"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "96cf100e91e29024010581dda3a3b5f5a2f4a81741cd9118f545433b2d01de8d"
+hash = "09f634420cb73fe7fda949b2e6f325390a41562aba82a7da138d97f17d1473c5"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "18723f8df626e2a06c955d63cbe69534ffa9da437277d62c6be67affcfdc637f"
+hash = "d918a7fd39a42c5510da9646649da38ece86c71f23b943dcec9fbfde5258722f"
 metafile = true
 
 [[files]]
