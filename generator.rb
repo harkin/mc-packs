@@ -2,6 +2,7 @@
 
 FABRIC_PERFORMANCE_MODS = [
   { name: "chunk-sending-forge-fabric", host: :cf },
+  { name: "chunky", host: :mr },
   { name: "clumps", host: :mr },
   # { name: "cupboard", host: :cf }, # there's a NeoForge version that erroneously gets picked up without the file-id
   { name: "dynamic-fps", host: :mr },
