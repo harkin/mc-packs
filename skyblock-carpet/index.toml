@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "b0169ff045235139a8163e4d6f33a26d3f2aca3e384d712ecd1cd5e3da70a8b0"
+hash = "ac2fd0d768bd5a86bad608a4c3d1d393bc8e3e32d10bf4657fd12c07378c0acd"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
+hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "ccca99080ecb9057231ef4c7f1ff9d45e737fe1cc323a2ec332045ca4f72b610"
+hash = "6a9625e6205bc79330b518365312f9ac1c62f0d2711d90eb99507f55be2509bf"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "58a219245bef683b0fc41a1b03d965b4c705069e2769c4b3ebb765423f7454ca"
+hash = "a182e0143abf16394bd463028d0081254b94fa3e6359ed58b5604fd0da31e2df"
 metafile = true
 
 [[files]]
@@ -275,5 +275,5 @@ hash = "7b88edf03fd9d934cf8dd81105fb7d66d7bbe886f499a479b8b51e9a84eb3cfb"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
 metafile = true
