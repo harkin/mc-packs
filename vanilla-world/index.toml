@@ -150,6 +150,11 @@ hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "17f2b0bb963e90e7e59f9356c81fe4a5857fcbad812cbab6b0eb39400ba428f1"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
@@ -272,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "f504bc95aa92603331973f49091667244b7cf1a1bcc2ff9f58bcb5e56935bd1b"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "8d3a5a353cc37e167d3a27e6831f5f74f525368a4496f38853e6d2490f4c166a"
 metafile = true
 
 [[files]]

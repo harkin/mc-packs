@@ -145,6 +145,11 @@ hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "94108745bb1ded58ea0f338c2c4a0dbdfe29703275c5047b4ca06b80569a451c"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "954646f4ee1509ca05e3d8ea9401d92c182db472fdd9936aa81dd2146a237eeb"
 metafile = true
@@ -242,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "daf8ad3c106d9f248a1ea2725901640d37162eca12e45538c69eafe80738c4da"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "5500a16f52790959d8db3a34cce6e5a6aa98a6faa2845777043cb2ee2eb5640a"
 metafile = true
 
 [[files]]
