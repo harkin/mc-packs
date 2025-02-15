@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -211,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "62aebeda9d90829865f633aa637ae99bc801e82dde0408a45888d60526367c30"
+hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
 
 [[files]]
 file = "mods/polylib.pw.toml"
-hash = "ed93d114f3409ada2c690d967341032ac3eb35a948d20d1b9cac63f46d618dc4"
+hash = "e05d27414ab37cb3b72c9493e2fc6d52f37ca4b67585ef1bb2e2c47b3dc38dcc"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a182e0143abf16394bd463028d0081254b94fa3e6359ed58b5604fd0da31e2df"
+hash = "98d26bc3193abc4d2729e7a0b5eff6410e023dd1b7869f666fec89cf5c8ab5ab"
 metafile = true
 
 [[files]]

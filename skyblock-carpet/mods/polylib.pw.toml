@@ -1,13 +1,13 @@
 name = "PolyLib"
-filename = "polylib-2004.0.3-build.155-fabric.jar"
+filename = "polylib-2004.0.3-build.165-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e9e547de52aafdd48c1ecad94588c87c4108ae7f"
+hash = "4a13a627009702310ae5ef734ddb17c88e56345c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5492163
+file-id = 6133441
 project-id = 576589
