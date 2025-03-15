@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "813dc5240894181ae756c20ee00768b18b4d48c9f6aeef22a308710eb323b229"
+hash = "a6bddd734993ee14b4770182b902593b3f89849f0adbc3d068c32927610b31ac"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d63d4059975071a71ba2d47aa9f5c547867797f9d5bf853ebb154d01100b6a86"
+hash = "f04757ea123fd6992ca60445dc8b9a57763bf07fff7b0e40209ad096d48319e1"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
+hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
 metafile = true
 
 [[files]]
@@ -256,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5ba2ea7512fb2cb4db138253520cd15959dea38ebb86ae645263784e47975b06"
+hash = "5929658d43c76327e70c52e476625d4c6ffffc2145cf03606db67337b9a32fdb"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5c0ea162206510e3452615a312dfa518edfb2eee4ccc81ba6c90f09bfee7f8c1"
+hash = "0e9f6d6ee0589e3cb28592c340cba6fe020cc6433ec6d9decf67af1eb77f6083"
 metafile = true
 
 [[files]]
