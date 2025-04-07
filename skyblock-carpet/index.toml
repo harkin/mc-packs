@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a6bddd734993ee14b4770182b902593b3f89849f0adbc3d068c32927610b31ac"
+hash = "81d5e5449ee86bb31e18c6245e54c61cf4a6430a83238b9aad665a6319ea2547"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f04757ea123fd6992ca60445dc8b9a57763bf07fff7b0e40209ad096d48319e1"
+hash = "fdc91980807783db87a37d95ec27a5392fdfcd6b0bd452e7f99dfd6908b1f2f7"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "98d26bc3193abc4d2729e7a0b5eff6410e023dd1b7869f666fec89cf5c8ab5ab"
+hash = "cf7ad8d57ba2c8746c80ea372f66807c6644938737a8257156599aa5de8a9feb"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "0e9f6d6ee0589e3cb28592c340cba6fe020cc6433ec6d9decf67af1eb77f6083"
+hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
 metafile = true
 
 [[files]]
