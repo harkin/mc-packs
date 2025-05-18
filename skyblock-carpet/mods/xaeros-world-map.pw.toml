@@ -1,13 +1,13 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.39.4_Fabric_1.20.4.jar"
+filename = "XaerosWorldMap_1.39.9_Fabric_1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NcUtCpym/versions/Gvqo7ln0/XaerosWorldMap_1.39.4_Fabric_1.20.4.jar"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/oWeojQbL/XaerosWorldMap_1.39.9_Fabric_1.20.4.jar"
 hash-format = "sha512"
-hash = "ad1a69c7c8d7ff83bdb99cbf25722ad4ce588b41a2469d9005d113022c6f2b5e5c766919fd7b901157b2465a3698195c9f671cf6e4d11904fe616f9323877710"
+hash = "2ee106683060a150e8024b757bd9c99566505f26a96c0166a3b88d7d446ee01cc9cd6aac02e72585a7582be14590e9b41818ed936b07b771d6443f009bf93d12"
 
 [update]
 [update.modrinth]
 mod-id = "NcUtCpym"
-version = "Gvqo7ln0"
+version = "oWeojQbL"

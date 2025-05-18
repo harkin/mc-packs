@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "81d5e5449ee86bb31e18c6245e54c61cf4a6430a83238b9aad665a6319ea2547"
+hash = "b8765525f4cdd4c2a9c7db0c0ad062372350e05a780d259c2d83696718ae7b1a"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -251,12 +251,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cf7ad8d57ba2c8746c80ea372f66807c6644938737a8257156599aa5de8a9feb"
+hash = "66726c4b7e460e6879635bd74533b6d1026f69eff24abe4d762592cce6e9f5b1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5929658d43c76327e70c52e476625d4c6ffffc2145cf03606db67337b9a32fdb"
+hash = "659b5bd49e9676930475b21dc4d6431dbb7e79f6ef0f13d57a61fe1e8263b747"
 metafile = true
 
 [[files]]
@@ -275,5 +275,5 @@ hash = "4300bcd5b309c0cb99e20fafae0e30ab72e88646c99902bc3a87d4357eb17cbe"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
