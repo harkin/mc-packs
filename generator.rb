@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 FABRIC_PERFORMANCE_MODS = [
+  { name: "badoptimizations", host: :mr },
   { name: "chunk-sending-forge-fabric", host: :cf },
   { name: "chunky", host: :mr },
   { name: "clumps", host: :mr },
