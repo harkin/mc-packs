@@ -7,13 +7,13 @@ FABRIC_PERFORMANCE_MODS = [
   { name: "clumps", host: :mr },
   # { name: "cupboard", host: :cf }, # there's a NeoForge version that erroneously gets picked up without the file-id
   { name: "dynamic-fps", host: :mr },
-  { name: "ebe", host: :mr },
+  # { name: "ebe", host: :mr }, # doesn't support 1.21.5 yet
   { name: "entityculling", host: :mr },
   { name: "fast-async-world-save-forge-fabric", host: :cf },
   { name: "fast-ip-ping", host: :mr },
   { name: "ferrite-core", host: :mr },
   { name: "immediatelyfast", host: :mr },
-  { name: "indium", host: :mr },
+  # { name: "indium", host: :mr }, unnecessary with Sodium 0.6.0+
   { name: "krypton", host: :mr },
   { name: "lithium", host: :mr },
   { name: "moreculling", host: :mr },
@@ -29,11 +29,11 @@ FABRIC_PERFORMANCE_MODS = [
 ]
 
 FABRIC_MODS_I_LIKE = [
-  { name: "accelerated-decay", host: :mr },
+  # { name: "accelerated-decay", host: :mr }, doesn't support 1.21.5 yet
   { name: "appleskin", host: :mr },
-  { name: "better-mount-hud", host: :mr },
+  # { name: "better-mount-hud", host: :mr }, doesn't support 1.21.5 yet
   { name: "better-ping-display-fabric", host: :mr },
-  { name: "carpet", host: :mr },
+  { name: "carpet", host: :cf },
   { name: "complementary-reimagined", host: :mr }, # technically shaders not a mod
   { name: "continuity", host: :mr },
   { name: "controlling", host: :mr },
@@ -56,8 +56,8 @@ FABRIC_MODS_I_LIKE = [
 
 FABRIC_MULTIPLAYER_MODS = [
   { name: "simple-voice-chat", host: :mr },
-  { name: "when-dungeons-arise", host: :mr },
-  { name: "when-dungeons-arise-seven-seas", host: :mr },
+  # { name: "when-dungeons-arise", host: :mr }, not updated to 1.21.5 yet
+  # { name: "when-dungeons-arise-seven-seas", host: :mr }, not updated to 1.21.5 yet
 ]
 
 FABRIC_SKYBLOCK_MODS = [
