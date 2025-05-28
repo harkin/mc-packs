@@ -185,11 +185,6 @@ hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
 metafile = true
 
 [[files]]
-file = "mods/polylib.pw.toml"
-hash = "c0eea5168ccb26faf0704b9373b35a7b033762db3c25e1d494d720e70a7244d8"
-metafile = true
-
-[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "b4e781ba1c0a7d7ad571981b487c946f39f59e28b115de54150ede0a31bf12ac"
 metafile = true
