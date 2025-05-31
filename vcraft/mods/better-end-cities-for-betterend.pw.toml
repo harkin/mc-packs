@@ -1,0 +1,13 @@
+name = "Better End Cities for BetterEnd"
+filename = "betterendcities-betterend-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DlcfxdlN/versions/WawF48ip/betterendcities-betterend-1.21.1.jar"
+hash-format = "sha512"
+hash = "c0548a9269bade76a44872e2a1c8a7296a700ba6d7d627e678346b8303be900ffa3fd8dc10b9f754aa16bb31d47698efbbe71e6f78cab940274e402dbccbdfd3"
+
+[update]
+[update.modrinth]
+mod-id = "DlcfxdlN"
+version = "WawF48ip"

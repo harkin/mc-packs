@@ -1,0 +1,13 @@
+name = "Dragon Scale [More Magic Series]"
+filename = "dragonscale-0.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6I7NK0fd/versions/pnEQPwsW/dragonscale-0.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "56717c4865f9b88efc8452a6d88ffe04b1a9424d6c01545d6bffed4fd687f9a40ae9623a8d607346900c9ed6ddba486cbd0eab9944f9ff50c5a85be2d9eb8c20"
+
+[update]
+[update.modrinth]
+mod-id = "6I7NK0fd"
+version = "pnEQPwsW"

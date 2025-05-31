@@ -1,0 +1,13 @@
+name = "Vanilla Pings"
+filename = "vanillapings-1.21.x-v1.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6Y8Vr1q/versions/Bs1VXoHR/vanillapings-1.21.x-v1.10.jar"
+hash-format = "sha512"
+hash = "9cf572fe528e0b30816a1e62870aff2db449b333959232d064664fc6bdf275374c1e14b34fb29907e47eef0590a2223b5575688e5440951843bf98bbc5910241"
+
+[update]
+[update.modrinth]
+mod-id = "P6Y8Vr1q"
+version = "Bs1VXoHR"

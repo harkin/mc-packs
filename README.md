@@ -19,7 +19,10 @@ To investigate:
 * modern fix: https://www.curseforge.com/minecraft/mc-mods/modernfix. Big perf claims, didn't see them in very limited testing
 * memory leak fix: https://modrinth.com/mod/memoryleakfix/
 * cull less leaves vs accelerated decay
+
+Aesthetics:
 * https://modrinth.com/mod/lovely_snails cute snails
+* https://modrinth.com/mod/adorabuild-structures interesting structures
 
 
 TODO

@@ -1,0 +1,13 @@
+name = "Backpacked"
+filename = "backpacked-fabric-1.21.1-3.0.0-beta.11-signed.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f45b5da157a89f200e76286782636a27f4f4fcf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6534485
+project-id = 352835

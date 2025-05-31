@@ -1,0 +1,13 @@
+name = "Wandering Cursebringer"
+filename = "WanderingCursebringer-fabric-0.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8pE023U/versions/WIo20OB4/WanderingCursebringer-fabric-0.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4b7ec3a4b33f7dba258b75310b91361169438144c811d7ffacf0476063fb52848053189c4ff481bcffee202f8a8a1d8b161713002963dcf94a610fcb0b66c311"
+
+[update]
+[update.modrinth]
+mod-id = "E8pE023U"
+version = "WIo20OB4"

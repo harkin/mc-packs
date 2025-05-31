@@ -1,0 +1,13 @@
+name = "More Runes [More Magic Series]"
+filename = "morerunesmod-0.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f29bdb6035f14bbca7b384995bc64d7ce14424be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5714062
+project-id = 1023124

@@ -1,0 +1,13 @@
+name = "Bundle API"
+filename = "bundle-api-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n8QN6Z1a/versions/IqBIlBMw/bundle-api-1.0.4.jar"
+hash-format = "sha512"
+hash = "85a5b506a9f5ba5f120ba1b77dfe712c08ef6ca800c530419c2238fe77e21e621a6970dc36d921970d10bdce7e866c62b433121d3fddc5874acd8b147baf8cab"
+
+[update]
+[update.modrinth]
+mod-id = "n8QN6Z1a"
+version = "IqBIlBMw"

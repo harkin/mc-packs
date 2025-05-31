@@ -1,0 +1,13 @@
+name = "CustomNPCs-Unofficial"
+filename = "CustomNPCs-Unofficial-Fabric-1.21.1.20241204.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vFAmwl6B/versions/3Xe9yeOx/CustomNPCs-Unofficial-Fabric-1.21.1.20241204.jar"
+hash-format = "sha512"
+hash = "596d09f66fc72ebe4bdc17ff334d6cae9534f98a17cd7e86b494da33a51539041d11a977f6935ce0382e614fe4f06470f85835ddbc0d8534bb298a8bff53bdd7"
+
+[update]
+[update.modrinth]
+mod-id = "vFAmwl6B"
+version = "3Xe9yeOx"
