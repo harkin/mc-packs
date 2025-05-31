@@ -91,6 +91,11 @@ hash = "6402514ffc846fb491e0d0382ba437aad903caa5c44ee56fb721448f2a2ba587"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
 metafile = true
