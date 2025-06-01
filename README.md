@@ -23,6 +23,7 @@ To investigate:
 Aesthetics:
 * https://modrinth.com/mod/lovely_snails cute snails
 * https://modrinth.com/mod/adorabuild-structures interesting structures
+* https://modrinth.com/mod/moogs-voyager-structures more structures
 
 
 TODO

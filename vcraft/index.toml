@@ -196,6 +196,11 @@ hash = "31fe856cfb4be0a169cd346540b5ba35c88107b19a15568a11112b38cebb2b62"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "784875af435e1a62c284a757ab2a58b8d82447b4d626caf077285ec348726d86"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "795a817b8c5c451c6a5af444f1c02515e48664bbe0b0b45368d06f6eaedf5d24"
 metafile = true
@@ -261,8 +266,18 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "f6045a0ad3a74e8597ebc8f992ac8542651e3058c5f914ffc88657ae7712cf52"
+metafile = true
+
+[[files]]
 file = "mods/more-runes-more-magic-series.pw.toml"
 hash = "402d918638e3d5325ad98e30adc9a29e8ce7a06e4c9d10347ea185ff1374bae3"
+metafile = true
+
+[[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "c976a95261537e718496b5f3c36c99209fb47605afd1b564dd819e9da472e931"
 metafile = true
 
 [[files]]
@@ -273,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "ebcca0174407306a9e9604ed9e5e2d92fc1a0d60ae55080a59ee224cc0a6d865"
 metafile = true
 
 [[files]]
@@ -382,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "7e779c0d2ba3c4094b9460205deb1c9900ca1f57c277ce77cb55446120ee11c4"
+hash = "49504e27eab75b026de80732ff4ac697a0bc448aec416adf9fb45c383e7c7bd7"
 metafile = true
 
 [[files]]
@@ -446,6 +466,11 @@ hash = "fdbe88accbb2e3f4b3574de6cb8715c35048b00df6d47fd411be5728bed36837"
 metafile = true
 
 [[files]]
+file = "mods/wizards.pw.toml"
+hash = "23351cc450a8cff254e554340cb9656126bade50bfeb6c7ab5a059b170eae846"
+metafile = true
+
+[[files]]
 file = "mods/worldweaver.pw.toml"
 hash = "d3dccbd68486d3b35054b5a716051fa01a916d808a2aa78a0ada72b31f08c428"
 metafile = true
@@ -463,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/xp-storage.pw.toml"
 hash = "45ff1a9fa3391d7a831d0e6182d9871f676184dd5959998f6ae0beca6f30310b"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
 metafile = true
 
 [[files]]
