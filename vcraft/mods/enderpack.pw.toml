@@ -1,0 +1,13 @@
+name = "EnderPack"
+filename = "ender_pack-merged-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HaS8KaHF/versions/qeDINI1o/ender_pack-merged-1.21.1-2.0.3.jar"
+hash-format = "sha512"
+hash = "4359c567e4a85223c8200a011e43eeef4276b481f6c2472a7d25bf098128d549711203f11b9f10b004aa2cd79c89cde6e4c2969d77cc06bf3908fe57574c4a80"
+
+[update]
+[update.modrinth]
+mod-id = "HaS8KaHF"
+version = "qeDINI1o"

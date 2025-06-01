@@ -1,6 +1,6 @@
 name = "Vanilla Pings"
 filename = "vanillapings-1.21.x-v1.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P6Y8Vr1q/versions/Bs1VXoHR/vanillapings-1.21.x-v1.10.jar"

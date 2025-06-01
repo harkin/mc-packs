@@ -1,0 +1,13 @@
+name = "The Great Alchemical Compendium [More Magic Series]"
+filename = "tgacmod-4.0.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zWOXoXzb/versions/oh7tjrZR/tgacmod-4.0.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "32542cb84541abe3619660c2d46099e4b3eed21025649c792e51b729c8de3c05fd1e92abb0a39a7b5542d1754a700d476fe929d5b2f72bef7b9bda7736bc1ed7"
+
+[update]
+[update.modrinth]
+mod-id = "zWOXoXzb"
+version = "oh7tjrZR"

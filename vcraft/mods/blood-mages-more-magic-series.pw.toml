@@ -1,13 +1,13 @@
 name = "Blood Mages [More Magic Series]"
-filename = "blood_mages-0.0.8-1.21.1.jar"
+filename = "blood_mages-0.0.7-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "66c85972a1ae45ac2af6d78161b134789f2e6151"
+hash = "a33e4014e4bea1ccc89b0300e1718d949bc7946f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6106813
+file-id = 5720851
 project-id = 1052133

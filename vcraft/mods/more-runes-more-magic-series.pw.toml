@@ -3,11 +3,11 @@ filename = "morerunesmod-0.0.2-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f29bdb6035f14bbca7b384995bc64d7ce14424be"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LWXVAgkl/versions/LV9gcJeq/morerunesmod-0.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "c757430dce5ab59b4c254648880f6750946fba8ed1f94c3cd6e546886a018fda08c41ea577f9ddbd798eb4536367ecaca0530a925ecbc9af547a0fed613cc313"
 
 [update]
-[update.curseforge]
-file-id = 5714062
-project-id = 1023124
+[update.modrinth]
+mod-id = "LWXVAgkl"
+version = "LV9gcJeq"
