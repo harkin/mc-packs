@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "1f9c70510fe21d5028a900ae31923e12c4bc4d7bbc38937f9c90ef75385ae6b7"
+hash = "ea1d303d34de75ef3745a218e1e48fa72cc0e04265142ed27345fdede5b1d954"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "a1d9583bf0c8b095d2530e0c0b389981bd18419b8aadb6a099b68212317a3496"
+hash = "cb527c0cb740a516c10e7c9a0ccd082d76d61697293fd7bb755db57ef269d304"
 metafile = true
 
 [[files]]
