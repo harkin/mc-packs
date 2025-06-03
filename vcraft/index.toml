@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/stitch.pw.toml"
-hash = "7740735e42409fd58e98055464a9528d8baeecd517cbb45bbf7e64387730ed75"
+hash = "51cb283f17cb0220eae0d81f7ac644d2a117a2fba831018d54a6c7f3538c3894"
 metafile = true
 
 [[files]]

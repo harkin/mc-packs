@@ -1,6 +1,6 @@
 name = "Stitch (formerly Athena)"
 filename = "athena-fabric-1.21-4.0.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7G1e11iK/athena-fabric-1.21-4.0.1.jar"
