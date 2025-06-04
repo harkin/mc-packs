@@ -36,11 +36,6 @@ hash = "d37f4cf0a2cbf0dcd6f1bfc5e8e580c8e97cb44f5f31f467290ed781a5a16fd6"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "54cdfb1f1a25778e39c1cf2eef805073764a7af6a179eef2f1ac021d1b36fc0b"
-metafile = true
-
-[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "bdbef3ae673702f8ae9f164caf64d6d0c350f2be1e5eab32a2ebea6e7d68d03e"
 metafile = true
