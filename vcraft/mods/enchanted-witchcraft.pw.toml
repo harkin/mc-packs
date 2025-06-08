@@ -1,13 +1,13 @@
 name = "Enchanted: Witchcraft"
-filename = "enchanted-fabric-1.21.1-4.0.7-beta.jar"
+filename = "enchanted-fabric-1.21.1-4.0.12-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bbf3f3d00d5a586325fb976d64dba924d92efa23"
+hash = "389d185cefe9947b86b62db9e9341d989c2b3125"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5996900
+file-id = 6617543
 project-id = 560363

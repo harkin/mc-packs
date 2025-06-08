@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "b876d6c55a8d8c3a48ba30700bcc61f944d8a09392a375454a84b5a2314d43aa"
+hash = "604fa461aa2e3a61fe837b25d9c3bc927c000677d9d14630e9d83629582e3fa0"
 metafile = true
 
 [[files]]
