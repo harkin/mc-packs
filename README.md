@@ -8,10 +8,9 @@ Modpacks for various different Minecraft servers I run, built with [packwiz](htt
  * nothing that alters the vanilla experience fundamentally (other that the skyblock mod itself)
 
 
-Waiting on updates for 1.21:
+Waiting on updates for 1.21.5:
 * Observable (for testing, have heard mixed reports about it's affect on perf)
 * Lootr (instanced loot chests, might be a on-runner if it breaks catastrophically without client side mod)
-* Iris Flywheel Compact (unsure what difference it makes in vanilla, want to test) iris-flw-compat
 
 To investigate:
 * faster-random (https://modrinth.com/mod/faster-random) requires a non-headless jvm
