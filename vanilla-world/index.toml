@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
@@ -76,17 +76,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a119aa71d4ec78d6ef21bc8c409a2e2a938d493b7f7aacfa63c0998e8d370e11"
+hash = "9a386c47e3ee11b91e443d8ec1b6084eb0266b5ddbd127ea3e90c7fa4ff5d9fd"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+hash = "f91706e274edf8016379c50d22d607dc344754f051b7cf30835c0e758ba995e0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
+hash = "d5a5c0249a6221deaacb0eb153e6b58b5505edd76aafe240d0bd340a6fa4562e"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+hash = "594155b27a969c86bdf30ceaa5c8edd1cecc0394b222033c712031114682efa2"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
@@ -141,17 +141,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+hash = "29bc0f585963a84e1f78af8a1ab779e34dcc4c1657190297bca9cd95aeb90d36"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "6def8bc95e2fa2cb7de9dd48c1531d5e761ac528f0034dba9e72f072e4d8cc4c"
+hash = "7e57affb55a7d3a5cfe9db4ca5308835f410644f8e500b6a13a8e04b3e340515"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "0bbd1c8202c200df4035e48613cd54ebcd1f8e2510ce71aa510955c3842efca4"
+hash = "e945646366d2097d79ab4db15ed47c0cc184261a588456573954b8cc85eee518"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
 
 [[files]]
@@ -211,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "cb527c0cb740a516c10e7c9a0ccd082d76d61697293fd7bb755db57ef269d304"
+hash = "ed6234e692c60f84bc3bbe09ded96eaa7188b7319aa76052cb04ce1dce91cee7"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ff84533e8fe06943d7d72e25e9b4393837e574a5c7c9e358206294b2cb0939c"
+hash = "8a5eece3c0860ae9e430f4b24f5c4720f5bc3993ceb69bddf53034f8a34fc2da"
 metafile = true
 
 [[files]]
@@ -241,22 +241,22 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "77bd1906c36bb69d572f003c69d3e83a95e0b75dd7779fc36935888152288ef8"
+hash = "42cea99da1e022945f3da24049679c4308d9a33fe782ba17627968f2b7ff85e8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
+hash = "7f658c40a452d9bdca14a961046b287d01efc5b5fac7e34024c2f2a11ed1b8ac"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3556431e076004f61282c316088b95bb99f8c26136c1f2aee4fc1577f33479dc"
+hash = "518a34367612ea0c89ca020f3c6ecc37712a641e982f5d18605640bafccf5c05"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+hash = "dc66d444a8cfd427c3c05d47babcc43f7fca842c1d7731116bd07c7d88441edc"
 metafile = true
 
 [[files]]
