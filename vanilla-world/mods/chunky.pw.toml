@@ -1,13 +1,13 @@
 name = "Chunky"
-filename = "Chunky-Fabric-1.4.36.jar"
+filename = "Chunky-Fabric-1.4.40.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fALzjamp/versions/mhLtMoLk/Chunky-Fabric-1.4.36.jar"
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/inWDi2cf/Chunky-Fabric-1.4.40.jar"
 hash-format = "sha512"
-hash = "65a201c246c95f6189a16e715d944e4a7ca7f44a8c4a39c8e6523d8c58e331d6611c78deff050cb4a2a2d80c5b8d84e3593a9b8ff961f7aee3d171a4ef7af2c7"
+hash = "9e0386d032641a124fd953a688a48066df7f4ec1186f7f0f8b0a56d49dced220e2d6938ed56e9d8ead78bb80ddb941bc7873f583add8e565bdacdf62e13adc28"
 
 [update]
 [update.modrinth]
 mod-id = "fALzjamp"
-version = "mhLtMoLk"
+version = "inWDi2cf"
