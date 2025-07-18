@@ -185,11 +185,6 @@ hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
-file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "b4e781ba1c0a7d7ad571981b487c946f39f59e28b115de54150ede0a31bf12ac"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
 metafile = true
