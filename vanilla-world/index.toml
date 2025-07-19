@@ -25,6 +25,11 @@ hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "403901ef07216a3f4a0d1e70dc02d1c0c41893e9f28f73017f11bc30884826bf"
 metafile = true
