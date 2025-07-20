@@ -47,6 +47,7 @@ FABRIC_MODS_I_LIKE = [
   { name: "mouse-tweaks", host: :mr },
   { name: "roughly-enough-items", host: :mr },
   { name: "servux", host: :mr },
+  { name: "sodium-shadowy-path-blocks", host: :mr },
   { name: "too-fast", host: :cf },
   { name: "tweakeroo", host: :mr },
   { name: "xaeros-minimap", host: :mr },
