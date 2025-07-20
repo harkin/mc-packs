@@ -30,6 +30,11 @@ hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "403901ef07216a3f4a0d1e70dc02d1c0c41893e9f28f73017f11bc30884826bf"
 metafile = true
