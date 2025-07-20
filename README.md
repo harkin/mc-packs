@@ -7,6 +7,10 @@ Modpacks for various different Minecraft servers I run, built with [packwiz](htt
  * primarily for me
  * nothing that alters the vanilla experience fundamentally (other that the skyblock mod itself)
 
+Usage:
+
+"$INST_JAVA" -jar ../../packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/harkin/mc-packs/main/vanilla-world/pack.toml
+
 
 Waiting on updates for 1.21.7:
 * Better Ping Display
