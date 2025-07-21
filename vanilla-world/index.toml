@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "2c1fffee6dc05e029ef09ae987ea5fd8dfc6985ae36a40555856f947f106e080"
+hash = "098c8cd65d0fc00b4bbcfe1cd0364e3caec11beca9b6f1a38e760ec37861f300"
 metafile = true
 
 [[files]]
