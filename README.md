@@ -16,6 +16,7 @@ Waiting on updates for 1.21.7:
 * Better Ping Display https://modrinth.com/mod/better-ping-display-fabric
 * REI https://modrinth.com/mod/rei
 * too-fast https://modrinth.com/mod/too-fast
+* nvidium https://modrinth.com/mod/nvidium
 * Observable (for testing, have heard mixed reports about it's affect on perf)
 * Lootr (instanced loot chests, might be a on-runner if it breaks catastrophically without client side mod)
 
@@ -26,9 +27,12 @@ To investigate:
 * memory leak fix: https://modrinth.com/mod/memoryleakfix/
 * cull less leaves vs accelerated decay
 * https://modrinth.com/mod/tooltipfix
-* very many players
+* very many players https://modrinth.com/mod/vmp-fabric
 * https://modrinth.com/mod/threatengl
 * https://modrinth.com/mod/rrls
+* bobby https://modrinth.com/mod/bobby
+* voxy https://modrinth.com/mod/voxy
+* distant horizons https://modrinth.com/mod/distanthorizons
 
 Aesthetics:
 * https://modrinth.com/mod/lovely_snails cute snails
