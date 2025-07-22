@@ -13,8 +13,8 @@ Usage:
 
 
 Waiting on updates for 1.21.7:
-* Better Ping Display
-* REI
+* Better Ping Display https://modrinth.com/mod/better-ping-display-fabric
+* REI https://modrinth.com/mod/rei
 * too-fast https://modrinth.com/mod/too-fast
 * Observable (for testing, have heard mixed reports about it's affect on perf)
 * Lootr (instanced loot chests, might be a on-runner if it breaks catastrophically without client side mod)
