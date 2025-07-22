@@ -42,6 +42,7 @@ FABRIC_MODS_I_LIKE = [
   { name: "horsebuff", host: :mr },
   { name: "iris", host: :mr },
   { name: "jade", host: :mr },
+  { name: "leaves-be-gone", host: :mr },
   { name: "minihud", host: :mr },
   { name: "modmenu", host: :mr },
   { name: "mouse-tweaks", host: :mr },
