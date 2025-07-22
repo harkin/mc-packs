@@ -40,11 +40,12 @@ Aesthetics:
 * https://modrinth.com/mod/moogs-voyager-structures more structures
 * https://modrinth.com/mod/formations-overworld more structures
 
-
+Shaders to check out
+* AstraLex https://modrinth.com/shader/astralex/versions
+* Bliss https://modrinth.com/shader/bliss-shader/
+* 
 TODO
 
-Configs:
-* Xaeros has a custom config that disables registration of status effects so that clients without it can join the server
 
 Notes:
 * Fast async world save or chunk sending seemed to have increased MSPT. Unclear if it's a real increase, but might be worth it for the benefits anyway
