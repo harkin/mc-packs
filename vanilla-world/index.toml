@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "1614366f37814b1f1e9248e055b576cbd88d6463164d2bd8b5654b12f58e7cea"
+hash = "ad4e5f502dac7881c108bb5615c7ae3ea043d813fb93dbbca3125018369abbe1"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
-hash = "4300bcd5b309c0cb99e20fafae0e30ab72e88646c99902bc3a87d4357eb17cbe"
+hash = "7aa8b1938cea04af88f7a49e5dd372bb9b3cb46d5e73b0a602b20c1014d44616"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
