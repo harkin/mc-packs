@@ -215,6 +215,11 @@ hash = "a04338ef93757875028cc1f2f7287199b3e7024c906af6ee53437d8c8a7f9f06"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "1614366f37814b1f1e9248e055b576cbd88d6463164d2bd8b5654b12f58e7cea"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
 metafile = true
