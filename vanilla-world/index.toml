@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "9e444b3cfef7e5874823dc34c529c3ab322fda7ec56d96a06dd3c763bad238df"
+hash = "63ce3cead9fe9a025516f0fd5bc972c24f3586fd3156b331e9e95af81e146a4b"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
+hash = "3c7a9083ad98707e6987c204d276660b2c3889c06d0113e72859bf3f8a5a32e0"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "ad4e5f502dac7881c108bb5615c7ae3ea043d813fb93dbbca3125018369abbe1"
+hash = "0ebcac819db1ea71488bc30ee57ab0c7f65b6e9395890f52120d8700cacc6286"
 metafile = true
 
 [[files]]
@@ -300,5 +300,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "be7ce4d8a7b6eeb6a430c06ff02050a69f171398c1094138d9fefe79ce45335e"
+hash = "3d6bc4f1cafd7779547440c78af9f5294f06b60fa0e7ead22daa886fa096d3ef"
 metafile = true
