@@ -19,6 +19,7 @@ Waiting on updates for 1.21.7:
 * nvidium https://modrinth.com/mod/nvidium
 * Observable (for testing, have heard mixed reports about it's affect on perf)
 * Lootr (instanced loot chests, might be a on-runner if it breaks catastrophically without client side mod)
+* Enchantment Descriptions https://modrinth.com/mod/enchantment-descriptions 
 
 To investigate:
 * faster-random (https://modrinth.com/mod/faster-random) requires a non-headless jvm
