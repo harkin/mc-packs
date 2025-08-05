@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "5bbaa879b990b6b241f774ae321efba6dc2871513f27c72cc100e3c4cdb4806f"
+hash = "64ea864b923719621ec895ea20ade8c95934a61e2a859eb8b5963e062355fbc1"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b8765525f4cdd4c2a9c7db0c0ad062372350e05a780d259c2d83696718ae7b1a"
+hash = "ffbf9fef5d2eae9c4d20a038abf358a318611828b20447762d00fb9fc5b1e927"
 metafile = true
 
 [[files]]
@@ -91,22 +91,22 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fdc91980807783db87a37d95ec27a5392fdfcd6b0bd452e7f99dfd6908b1f2f7"
+hash = "b21edc5455b0d1b0f59ba977962541f6e63ffcbd4f1ac6a0c1aeb398e1b7f701"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
+hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "4d6ef091895654b3f1516b40a1dee3e201c0013022d4acb268d040d7224475fa"
+hash = "29d41095d30271247f296402d3e50d8ce060acf77808efcbe25de0ec84e76975"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+hash = "67099bc47fc849c2964b3b64b6f3af6fcbf941d9a4f1c03dda25f746b279015b"
 metafile = true
 
 [[files]]
@@ -251,17 +251,17 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "daf8ad3c106d9f248a1ea2725901640d37162eca12e45538c69eafe80738c4da"
+hash = "36c6d10a229a3165fa26b82bff0564587989a12f865aa753dc4d3bd4ba6ac4a2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "66726c4b7e460e6879635bd74533b6d1026f69eff24abe4d762592cce6e9f5b1"
+hash = "8e36bf798caa5ab08b10723c372f50dc9264d8ed4dd21f2eb8a7c498fc827521"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "659b5bd49e9676930475b21dc4d6431dbb7e79f6ef0f13d57a61fe1e8263b747"
+hash = "e62f235d7ee66939a6825447f6ecf03775e843ea354784a1a8e4a716ef1f9edb"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "eb8666e1ea5fb68d226b89f683a473e60d0299efad7eb17d60e094c8f3537ab3"
+hash = "c42721373d785d6319e799b579f7abfd111a495eb2235b8f73153137b79403ca"
 metafile = true
 
 [[files]]
