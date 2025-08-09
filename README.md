@@ -40,6 +40,7 @@ Aesthetics:
 * https://modrinth.com/mod/adorabuild-structures interesting structures
 * https://modrinth.com/mod/moogs-voyager-structures more structures
 * https://modrinth.com/mod/formations-overworld more structures
+* https://modrinth.com/mod/mo-structures more structures
 
 Shaders to check out
 * AstraLex https://modrinth.com/shader/astralex/versions
