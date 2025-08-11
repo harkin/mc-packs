@@ -14,19 +14,19 @@ Usage:
 
 Waiting on updates for 1.21.7:
 * Better Ping Display https://modrinth.com/mod/better-ping-display-fabric
-* REI https://modrinth.com/mod/rei
+* JEI https://modrinth.com/mod/jei
+* EMI https://modrinth.com/mod/emi
 * too-fast https://modrinth.com/mod/too-fast
 * nvidium https://modrinth.com/mod/nvidium
 * Observable (for testing, have heard mixed reports about it's affect on perf)
 * Lootr (instanced loot chests, might be a on-runner if it breaks catastrophically without client side mod)
-* Enchantment Descriptions https://modrinth.com/mod/enchantment-descriptions 
+* Enchantment Descriptions https://modrinth.com/mod/enchantment-descriptions
 
 To investigate:
 * faster-random (https://modrinth.com/mod/faster-random) requires a non-headless jvm
 * https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone vs accelerated decay
 * modern fix: https://www.curseforge.com/minecraft/mc-mods/modernfix. Big perf claims, didn't see them in very limited testing
 * memory leak fix: https://modrinth.com/mod/memoryleakfix/
-* cull less leaves vs accelerated decay
 * https://modrinth.com/mod/tooltipfix
 * very many players https://modrinth.com/mod/vmp-fabric
 * https://modrinth.com/mod/threatengl
@@ -41,6 +41,9 @@ Aesthetics:
 * https://modrinth.com/mod/moogs-voyager-structures more structures
 * https://modrinth.com/mod/formations-overworld more structures
 * https://modrinth.com/mod/mo-structures more structures
+
+Functionality:
+* https://modrinth.com/mod/audioplayer
 
 Shaders to check out
 * AstraLex https://modrinth.com/shader/astralex/versions
