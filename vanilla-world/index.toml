@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "65204696e62b5d47aeae9692d597bcaeff2b32b0532defab2c3c9c5b25ecb5a5"
+hash = "b37dab22331ef3cd0688102a17689235f12c195725463125d5cedddbe37248fe"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "b4bd86d54ddfc83ddf62c6c84a1299c0fb3d5d9709f42c2d340941d8fe50176c"
+hash = "6c25890be6c8210af61c260972b632ed38d17e6d4cfaf50bfdf1009c6013388f"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "90f8fd0ab4afd6b323cc4dd945b4c6d162b9e7cd9a2694afcc170c52213e303d"
+hash = "0f66adb84216f6411f87aa060a55b0613c2c5687f667c5b0de4971604dd49520"
 metafile = true
 
 [[files]]
