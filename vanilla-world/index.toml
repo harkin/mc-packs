@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "7a36cf9888455a9d373c621dd4dc40258501e65ef30be309283e9fab7d96341b"
+hash = "214c50c94d7484fe1c4522f3b14f3e5528b68760f3e48293a87f3ccf6ca733f7"
 metafile = true
 
 [[files]]
