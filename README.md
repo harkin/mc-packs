@@ -41,7 +41,7 @@ Aesthetics:
 * https://modrinth.com/mod/moogs-voyager-structures more structures
 * https://modrinth.com/mod/formations-overworld more structures
 * https://modrinth.com/mod/mo-structures more structures
-
+* https://modrinth.com/mod/polydecorations/gallery server side decoractions
 Functionality:
 * https://modrinth.com/mod/audioplayer
 
