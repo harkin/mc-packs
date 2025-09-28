@@ -300,5 +300,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "3d6bc4f1cafd7779547440c78af9f5294f06b60fa0e7ead22daa886fa096d3ef"
+hash = "16ed8624c29dc4969485db59110445d3ea40192c28ab04e87c16d87220fce097"
 metafile = true
