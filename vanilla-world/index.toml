@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
+hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
+hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
 metafile = true
 
 [[files]]
@@ -136,12 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "098c8cd65d0fc00b4bbcfe1cd0364e3caec11beca9b6f1a38e760ec37861f300"
+hash = "7ea5d22e73dc03e48c2122eaca84a0e4e0714296bb540107626f63655783c7a7"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
+hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
+hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ hash = "7aa8b1938cea04af88f7a49e5dd372bb9b3cb46d5e73b0a602b20c1014d44616"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
 metafile = true
 
 [[files]]
