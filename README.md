@@ -34,6 +34,7 @@ To investigate:
 * bobby https://modrinth.com/mod/bobby
 * voxy https://modrinth.com/mod/voxy
 * distant horizons https://modrinth.com/mod/distanthorizons
+* https://modrinth.com/mod/item-descriptions
 
 Aesthetics:
 * https://modrinth.com/mod/lovely_snails cute snails
