@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
+hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+hash = "18360f497689d81ce5b4a58571c099bf5a7f66e085ccd7196cd129158b328f15"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ hash = "7aa8b1938cea04af88f7a49e5dd372bb9b3cb46d5e73b0a602b20c1014d44616"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
 
 [[files]]
