@@ -1,0 +1,13 @@
+name = "hermitcrafts10"
+author = "harkin"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac5ceb77ddd2a8aac75e2c6dc505f4a664199dc08bbf93f591b8bbf9186d0d4c"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.8"
