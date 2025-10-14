@@ -41,6 +41,11 @@ hash = "ae894d01b48b0e28d156d0d30f81c6b27cd39fc851ca6314e703393f214ae7e7"
 metafile = true
 
 [[files]]
+file = "mods/datapack-injector.pw.toml"
+hash = "2f5fef8f6e54a4bb678e8fd2952a03d64e736cff426502fb77ffd8173505e7a5"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
