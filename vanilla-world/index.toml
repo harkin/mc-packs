@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "7ea5d22e73dc03e48c2122eaca84a0e4e0714296bb540107626f63655783c7a7"
+hash = "e13086d01de1728d52ff0e0d2f460866855b0c325611f6c655d3a7801d851782"
 metafile = true
 
 [[files]]
@@ -300,5 +300,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "16ed8624c29dc4969485db59110445d3ea40192c28ab04e87c16d87220fce097"
+hash = "ee7d85e560722638174288e87de2c5e8ae82c8242de6614745e52d82acf7700c"
 metafile = true
