@@ -36,6 +36,7 @@ To investigate:
 * distant horizons https://modrinth.com/mod/distanthorizons
 * https://modrinth.com/mod/item-descriptions
 * https://modrinth.com/mod/itemstats
+* https://modrinth.com/mod/3dskinlayers
 
 Aesthetics:
 * https://modrinth.com/mod/lovely_snails cute snails
