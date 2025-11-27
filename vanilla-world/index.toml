@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "a2aa577e93491f2231af331570b5c96a384d260d8770bbd8271742567baaf2f7"
+hash = "fa1d1286d8bc03ae99442535edd1e3c134ea859b861089e21d8b503e7cba4c67"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "63ce3cead9fe9a025516f0fd5bc972c24f3586fd3156b331e9e95af81e146a4b"
+hash = "f67b2da196e96f6a086b8c60d3f1d4b18c1c54d65056c003723fa22213bb4678"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1031fc249666fd4c19555037df86d9aa3c3c7378733b594cf4207b3e606e8e55"
+hash = "7c9ed8db12a2bfd5bdcb6c3060ff9081dc65991e7e20defd2f0215faec25f5ce"
 metafile = true
 
 [[files]]
