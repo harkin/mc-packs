@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7c9ed8db12a2bfd5bdcb6c3060ff9081dc65991e7e20defd2f0215faec25f5ce"
+hash = "963b7c23ef0927ebf5658c6a5a2ae11e8e2ee5b53bb09d3cc47b17a59fd8c1d9"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "2d373a1128cdb01a77053c64d5d6a64cf76c2d68da0529b2cc0f2dd6f8371767"
+hash = "ae2060c6233ba1715c06f687148af5b2fbd9ac511c28d653fe2887ad7ecb1fc1"
 metafile = true
 
 [[files]]
