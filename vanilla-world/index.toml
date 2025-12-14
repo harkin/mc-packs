@@ -81,12 +81,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
+hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
+hash = "b6dd8c2e3c0b386b2551844c81c41940554f373c24aa8a35f20dfd63022e59fb"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
+hash = "65aaaca6973786baf12f943cb700deac5d9dee8a4813ec1368773c35653b18f8"
 metafile = true
 
 [[files]]
@@ -131,12 +131,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
+hash = "deb841bd032e5b2722df01d2743b1fc67be20540b9608ee29501909f37ba3015"
 metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "e1ed2ca44f88bc9daa757afafed550cbd7e87639cb95b12a0673729cd7103290"
+hash = "51530e922874043f9642b3f0029880ad8f3c303405ff2c4c6fe58d9415bd0e56"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "963b7c23ef0927ebf5658c6a5a2ae11e8e2ee5b53bb09d3cc47b17a59fd8c1d9"
+hash = "df9caac85440c70a67a56a2b552f47a6b749a5e9df708ee2e6849c76a9686e6f"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+hash = "8c80e3393ce1fb38159f02af4dd3a7aba0b656945aac8c3da5aef04b22915e35"
 metafile = true
 
 [[files]]
