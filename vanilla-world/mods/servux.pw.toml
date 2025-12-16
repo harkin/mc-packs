@@ -1,6 +1,6 @@
 name = "Servux"
 filename = "servux-fabric-1.21.10-0.8.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/l6kw0FSN/servux-fabric-1.21.10-0.8.5.jar"

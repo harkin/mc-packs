@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "1c2a209ae46e35a49781a5c569d4be87661b5c78b07faa62f7b4300ec85f01e2"
+hash = "40851322be130d051190af0a939c36799d676e94c1ae3e555eacefe1ff28648c"
 metafile = true
 
 [[files]]
