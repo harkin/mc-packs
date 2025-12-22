@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
+hash = "7243f5258960ac15593488a49811b27f6de0e5fce447768e4588fcff95abc757"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "df9caac85440c70a67a56a2b552f47a6b749a5e9df708ee2e6849c76a9686e6f"
+hash = "83fc77051e675c101fddb28ed303ce57deb4d26b58c025d4d9f60b2d1b37a5c1"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1794498da990b61fa0727ebed1a1948441a8294a77400e784dc11e1ff5f02791"
+hash = "69786785c676fc55890792c5906fa360b34a89dd76d072eec30294b49155c00d"
 metafile = true
 
 [[files]]
