@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "51530e922874043f9642b3f0029880ad8f3c303405ff2c4c6fe58d9415bd0e56"
+hash = "4da23b529e31714ab48cba4e292a9430fecd61d3fcda09b0e8dc76b34cb049dd"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "802981efce132e93b99352dacae410bf7b3e356f2e9de14b0ff9cea0beb31bb9"
 metafile = true
 
 [[files]]
