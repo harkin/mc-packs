@@ -25,6 +25,11 @@ hash = "492b3c59c096542b5ca733e5a19f66c870deaa6a98a409ee8497fe50d39ac7db"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "36a24bed3fd2d7a2f31dbf2543e437ff200dfc80e48b59d5ca77c66562211720"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "6088be62ff0bc4e93388ba995418a376a1b7dfd062cce84bc36349b34ffa4af6"
 metafile = true
