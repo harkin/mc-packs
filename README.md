@@ -13,6 +13,7 @@ Usage:
 
 
 Waiting on updates for 1.21.11:
+* Krypton https://modrinth.com/mod/krypton 
 * Cubes without borders https://modrinth.com/mod/cubes-without-borders 
 * EMI https://modrinth.com/mod/emi
 * too-fast https://modrinth.com/mod/too-fast
