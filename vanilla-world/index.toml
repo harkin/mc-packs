@@ -75,11 +75,6 @@ hash = "da925d1159906a6c993fa4be167a48ae350d77daa1950a68135bf56c4e0dbb62"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "f67b2da196e96f6a086b8c60d3f1d4b18c1c54d65056c003723fa22213bb4678"
 metafile = true
@@ -157,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "83fc77051e675c101fddb28ed303ce57deb4d26b58c025d4d9f60b2d1b37a5c1"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
 metafile = true
 
 [[files]]
@@ -281,11 +271,6 @@ hash = "7aa8b1938cea04af88f7a49e5dd372bb9b3cb46d5e73b0a602b20c1014d44616"
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
 
 [[files]]
