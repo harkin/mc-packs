@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "4e67580688464bd3e7065f96da1fba23cc593e0a7eabd8b0522c6d82129fc6ec"
+hash = "9901b4a332af2554d61e1a0547a8d6dce114232ecc48f5b4512ab867c1d680ef"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "40851322be130d051190af0a939c36799d676e94c1ae3e555eacefe1ff28648c"
+hash = "af842a44a80264384c518764091621542eee6abe65fa368b13e1926c6a88c07a"
 metafile = true
 
 [[files]]
