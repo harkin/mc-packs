@@ -22,6 +22,7 @@ Waiting on updates for 1.21.11:
 * Enchantment Descriptions https://modrinth.com/mod/enchantment-descriptions
 
 To investigate:
+* Async https://modrinth.com/mod/async async entity processing, early alpha
 * faster-random (https://modrinth.com/mod/faster-random) requires a non-headless jvm
 * modern fix: https://www.curseforge.com/minecraft/mc-mods/modernfix. Big perf claims, didn't see them in very limited testing
 * memory leak fix: https://modrinth.com/mod/memoryleakfix/
