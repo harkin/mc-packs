@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
+hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
 metafile = true
 
 [[files]]
@@ -251,12 +251,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "66c88a77a6c38e4468ae356cc731bcc83490470c31ca35ebe1e576bc7fb31e33"
+hash = "3a288d56cf6171fc36e67f86511cd374753739268472b870d62028e5a194f1eb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f1a24b115d4f5b5bda424cb2c079f8db2f7b51e01c5bc65e2659ba9743cf5e1c"
+hash = "bb03f4a3d390748d96483d3bfd5ee377458e5737af159ebc658af9e79a66039e"
 metafile = true
 
 [[files]]
