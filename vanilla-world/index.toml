@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "69786785c676fc55890792c5906fa360b34a89dd76d072eec30294b49155c00d"
+hash = "a2f4d9dda96c16714c36b3ad813e1d720dd6d8d4bf87e5c0bbc7bf54ed62540e"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "bb03f4a3d390748d96483d3bfd5ee377458e5737af159ebc658af9e79a66039e"
+hash = "eff19adf49fc2c4feca3732f583b12deb4f5814257dafc04334023b68138a548"
 metafile = true
 
 [[files]]
