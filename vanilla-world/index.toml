@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ftbbackups2.json"
-hash = "658cdfc3d5b6794b28c8fc84fa1c91daa352017ae1145a006c99060f2be13cde"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -122,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-2.pw.toml"
-hash = "6cfb1afb313f18d7cfe584ab972c8e183ade60083e256f4c1f70d0248190416a"
 metafile = true
 
 [[files]]
