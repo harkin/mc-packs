@@ -36,11 +36,6 @@ hash = "ed55fdea501426bbabdbe8f3ed4440158a17c435b978d5d38b4a926e53cdfd6f"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "1edd2cfabb619660184561ab311bf5a6ad8d49d950030de1fef3cae4f9a549dd"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "eaa52d6ff1bcb539956d50626085d9185eca346fabcf6b3c176c53192b9958ec"
 metafile = true
