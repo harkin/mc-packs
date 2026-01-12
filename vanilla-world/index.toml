@@ -26,11 +26,6 @@ hash = "222051963124274280e95417029d355d16cd6806af884217f834a6d599af6dc9"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ff260b35492778bdce59ffa064a59c6a9953ffd409eb40782af14b78a29a2cb8"
 metafile = true
@@ -238,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "a0ef8034adaf8b22f36a4e543559455b25cf6abbc54e7f7a3d57c3bcd67827d9"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "98f6ceea9a07d7cf9f08bce86fe8fb340f806fa1a0b6ec8f6f16dcbcafd42475"
 metafile = true
 
 [[files]]
