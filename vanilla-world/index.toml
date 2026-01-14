@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d74d244b3524bea2326becd2ceaa27b8e231156aba33448533cd29b12ed48318"
+hash = "b74fc5559d6019c3ac54581de34cf17476ad9ced4b171aced5e6554e29746020"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
-hash = "12881548b36a3e8f0700f24a68857938c3f90bc883f83e6d5ccfdea74359cbeb"
+hash = "3aaaa2f0796e45341ca1aff1ff741baa77d28a47b20e41d039b01a98ad1db894"
 metafile = true
 
 [[files]]
