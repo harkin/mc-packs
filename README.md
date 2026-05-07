@@ -12,8 +12,9 @@ Usage:
 "$INST_JAVA" -jar ../../packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/harkin/mc-packs/main/vanilla-world/pack.toml
 
 
-Waiting on updates for 1.21.11:
-* Cubes without borders https://modrinth.com/mod/cubes-without-borders 
+Waiting on updates for 26.1.2:
+* carpet https://modrinth.com/mod/carpet or https://www.curseforge.com/minecraft/mc-mods/carpet/files/all?page=1&pageSize=20&gameVersionTypeId=4&showAlphaFiles=hide
+* better ping display https://modrinth.com/mod/better-ping-display-fabric
 * EMI https://modrinth.com/mod/emi
 * too-fast https://modrinth.com/mod/too-fast
 * nvidium https://modrinth.com/mod/nvidium
@@ -30,8 +31,6 @@ To investigate:
 * very many players https://modrinth.com/mod/vmp-fabric
 * https://modrinth.com/mod/threatengl
 * https://modrinth.com/mod/rrls
-* bobby https://modrinth.com/mod/bobby
-* voxy https://modrinth.com/mod/voxy
 * distant horizons https://modrinth.com/mod/distanthorizons
 * https://modrinth.com/mod/item-descriptions
 * https://modrinth.com/mod/itemstats
@@ -50,7 +49,9 @@ Functionality:
 Shaders to check out
 * AstraLex https://modrinth.com/shader/astralex/versions
 * Bliss https://modrinth.com/shader/bliss-shader/
-* 
+* Glimmer https://modrinth.com/shader/glimmer-shaders/
+* RethinkingVoxels https://modrinth.com/shader/rethinking-voxels
+
 TODO
 
 
