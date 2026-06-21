@@ -236,6 +236,11 @@ hash = "67866b7484801e784c42ecd443ebf6a29640fe796feec91c248def2642aec952"
 metafile = true
 
 [[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "35448667757bd3218bf47149b17d0c6e8d76b75c8d78ce5249badf7bb03162a4"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "055e6a5ca54023619cbc1d0c91d4a102d4eb37981940dc3f8de62e6a3ecb3e86"
 metafile = true
