@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d738fe51b20c8da621e36a0d65e15d7f4f9f8e2e8162670a2798610079790ee3"
+hash = "298bb7ba6652ce3664375e597c4a2e54510e840d22ac656fefc36096335c9202"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "120585e75f6fa06b138bbb3e681298113c66a084ebe842de3da91d21b5b5b3f9"
+hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "9a3fe81b158254f77e5f01eb517739ade9cce110e04a9328f6e3e56e787994b1"
+hash = "58646400706e8c52920bcb1eb2e8ab7e6e95b57662a21a369d20c17454ad03b1"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "264a00ab5ffea49c4f69235f974936e2e0986dae2457e4eac5fda2a51bcdeb73"
+hash = "f294d82e6cb1f9dabd7de9f1d3d4674585370423f2a3bb87dc5f9371e16db512"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "b9007e78250c270d253eac2251de00af3408a05f5d04d1b79bb6a7e1c355b2cd"
+hash = "4e759a60a56ee0f717e3bc43260d68fe3da9c352d99ef03d71af7f6f3b3d4584"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "2e37381a727f9419ee8a23b0918697e8d95a785a4757c3f9e16a218cb969789a"
+hash = "c6c8a308ea0716492e599be63ac94e806789215a40186b8d880f293aa7462d31"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "08f05239423ed9a3a152493954f76725bafda3e1fcd3aff1b9af2283fdf1a687"
+hash = "4295e14e6d11ca0884a52ed65b2435546ff5f323961afba5563e1e8aaca4cf70"
 metafile = true
 
 [[files]]
@@ -227,17 +227,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0ae6310cd7e6606d7c6825133e8097e3c723ec493b5f70c2eb83949c358162cf"
+hash = "369c0a1bf226df5a314e179dff73f1c9ca59f71ae9f04a714e14e8f411c796bb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0b4cb570f4aefa8917d2d92a86b1fa2fbaab1b1cb2579ab04affb56483cd2ebf"
+hash = "a8fe546b3678660cc91436565b263784c4bffa52a0ea4af8f66760b952dd7eec"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "67866b7484801e784c42ecd443ebf6a29640fe796feec91c248def2642aec952"
+hash = "e212db98871e5d51f2015f3134090353cec414333af3ba2e6015b8c642f5267b"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "055e6a5ca54023619cbc1d0c91d4a102d4eb37981940dc3f8de62e6a3ecb3e86"
+hash = "db52e50c6846f0850e9a58ed9709310b87efa4f924caa013b8a49ab96f86f714"
 metafile = true
 
 [[files]]
@@ -266,12 +266,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
-hash = "0aa831c0358ea3772d3585b7fe2455ac2be9402418afd43142bfc8e6b6fc9f99"
+hash = "5b99f94472ff8bde63d2a30b96c30e496aa4499e09092631f41b3c3bca202087"
 metafile = true
 
 [[files]]
 file = "shaderpacks/noble.pw.toml"
-hash = "210c2e9af9aed44c0027c3fa9bd6b48948548c0c1f4680535dda89cc6f64c7ba"
+hash = "f2be24970375db2abbba1856d43c92a4a17dc0c257e2997c090811266c88b86b"
 metafile = true
 
 [[files]]
