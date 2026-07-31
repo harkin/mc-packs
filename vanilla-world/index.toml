@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f6ba2d445d508d2d80204f2287c08723bd534e982ee70d5b57b164ee922a5ede"
+hash = "e717613690e9b4c79655fe63c1de44e74bd4422372a8551527b09240330cb854"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
+hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "44df674ce3ca4bf222f7449ccabe8743be337ed9fa715f4ae4d06e0652c8485c"
+hash = "4ee577cb1754177f06bde2bdfe99cb6320251d2b9f87400dbb586e87286c8ba3"
 metafile = true
 
 [[files]]
