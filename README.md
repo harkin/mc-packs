@@ -36,6 +36,24 @@ To investigate:
 * https://modrinth.com/mod/itemstats
 * https://modrinth.com/mod/3dskinlayers
 
+From Remarkably Optimized (https://modrinth.com/modpack/remarkably, checked 1.15.65 for 26.2):
+* gnetum https://modrinth.com/mod/gnetum spreads HUD rendering over multiple frames, should help with minihud/xaero's
+* obe https://modrinth.com/mod/obe faster block entity rendering (chests, signs etc)
+* zfastsurface https://modrinth.com/mod/zfastsurface and zmaterial-rule-compiler https://modrinth.com/mod/zmaterial-rule-compiler worldgen opts from the zfastnoise author, both need zconfig, both break moonrise
+* quick-pack https://modrinth.com/mod/quick-pack faster resource/data pack zip loading
+* ixeris https://modrinth.com/mod/ixeris threaded input polling, test with mouse tweaks/controlling
+* asyncparticles https://modrinth.com/mod/asyncparticles async particle ticking + GPU particle rendering, beta, test with iris shaders and voxy
+* sodium-extra https://modrinth.com/mod/sodium-extra mostly quality toggles (fog, animations etc), works with sodium 0.9.1
+* reeses-sodium-options https://modrinth.com/mod/reeses-sodium-options options menu only, 26.2 build needs exactly sodium 0.9.2 so blocked by the sodium pin
+* They use modernfix-mvus https://modrinth.com/mod/modernfix-mvus (see Investigated)
+
+Config tweaks from Remarkably Optimized (would need a config/ folder in the pack, all experimental/non-default):
+* More Culling: `leavesCullingMode = "DEPTH"` culls leaf faces deep inside canopies but keeps outer ones, biggest win in forests. Also `includeMangroveRoots = true`, `endGatewayCulling = true`, `itemFrameLODRange = 16`, `itemFrame3FaceCullingRange = 2.0` (item frame ones might just be defaults)
+* FerriteCore: `useSmallThreadingDetector = true` smaller per-chunk-section threading detector, saves memory. Low risk
+* ImmediatelyFast: `experimental_sign_text_buffering` cheaper sign text, `experimental_screen_batching` batches GUI draw calls (test with JEI/xaero's), `experimental_disable_error_checking` skips GL error checks (hides render errors), `experimental_disable_resource_pack_conflict_handling` skips resource pack conflict workarounds (could glitch with some packs)
+* Lithium: `mixin.experimental=true` less-tested game logic opts, applies server side. They also set `mixin.world.explosions.block_raycast.skip_air.no_air_counting=false`, probably to keep explosions vanilla-exact, unconfirmed
+* C2ME: `gcFreeChunkSerializer = true` less GC churn when saving chunks. Riskiest one since it writes world data, needs testing alongside fast async world save. Backups first
+
 Aesthetics:
 * https://modrinth.com/mod/lovely_snails cute snails
 * https://modrinth.com/mod/adorabuild-structures interesting structures
@@ -53,6 +71,7 @@ Shaders to check out
 * RethinkingVoxels https://modrinth.com/shader/rethinking-voxels
 
 TODO
+* Hold sodium at 0.9.1 for voxy: `packwiz pin sodium` and `packwiz pin iris` before `packwiz update --all`. Voxy 0.2.19's fabric.mod.json claims sodium 0.9.2 support but there are github issues saying otherwise. Sodium 0.9.2 breaks iris <=1.11.2 so upgrade both together
 
 
 Notes:
