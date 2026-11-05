@@ -246,6 +246,16 @@ hash = "cf91f2e90c6b5ee044754e70bcbb574dc4a182604b42398bd2476ed1d68df1f5"
 metafile = true
 
 [[files]]
+file = "mods/zfastsurface.pw.toml"
+hash = "fdfe3c453b820f7f3f6b1933105ca61a5b33dfbdc52b5dc042827436ae361633"
+metafile = true
+
+[[files]]
+file = "mods/zmaterial-rule-compiler.pw.toml"
+hash = "6c052a0e155bdce1f760c4e5957df8d18a1a52b40fcf9c734c7ca2b338ae81bd"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "24243bf59fa8e8fd2755b3bd20b4b9ea102e6afd3c0adcf92368f0ec3224aed3"
 metafile = true
