@@ -1,13 +1,13 @@
 name = "Cupboard"
-filename = "cupboard-fabric-26.2-4.1.jar"
+filename = "cupboard-fabric-26.2-4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "149ceac6893b0c8d40cc00a5ea6bf28baf730f9e"
+hash = "2657d96dc9adb6292f6c7a2bfc60d98f24321911"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8752936
+file-id = 8888959
 project-id = 326652
