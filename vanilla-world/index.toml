@@ -51,11 +51,6 @@ hash = "3461a95532ba09ce3c15fad9980b2aadc47d2ccb52eb29caa304295053f698eb"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "62a9cc1f9f87475a348792e19d26984a218ed579526e35d2a1e45f68640a49b7"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "84d6a2b87db74408c8fd2fd15792bad981ffbab43e1ee96b79aabded2604141c"
 metafile = true
@@ -73,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
-metafile = true
-
-[[files]]
-file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "0bf3ecffe783d2e14eed5ff39981fecfb3091ebca00db01d027a8aa10e6918c0"
 metafile = true
 
 [[files]]
